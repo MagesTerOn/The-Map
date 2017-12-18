@@ -61,7 +61,7 @@
                 "lightness": 17
             },
             {
-                "weight": 1.2
+                "weight": 0.2
             }
         ]
     },
@@ -91,7 +91,7 @@
                 "color": "#e9e9e9"
             },
             {
-                "weight": "0.37"
+                "weight": "0.1"
             }
         ]
     },
@@ -115,7 +115,7 @@
                 "color": "#eaeaea"
             },
             {
-                "weight": "0.28"
+                "weight": "0.08"
             }
         ]
     },
@@ -241,7 +241,7 @@
                 "lightness": 29
             },
             {
-                "weight": 0.2
+                "weight": 0.02
             }
         ]
     },
@@ -253,7 +253,7 @@
                 "color": "#f0f0f0"
             },
             {
-                "weight": "0.29"
+                "weight": "0.09"
             },
             {
                 "saturation": "-75"
@@ -283,7 +283,7 @@
                 "color": "#e7e7e7"
             },
             {
-                "weight": "0.84"
+                "weight": "0.04"
             },
             {
                 "lightness": "-23"
